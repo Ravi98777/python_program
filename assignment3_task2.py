@@ -4,3 +4,4 @@ print("\nsquate root : " ,math.sqrt(num))
 print("\nlogarithm : " ,math.log(num))
 print("\nsine : " ,math.sin(num))
 
+[]
